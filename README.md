@@ -1,7 +1,7 @@
 
 ### Hi there, I'm [Rashedul Alam][sany_github] 👋
 
-## I'm a Passionate Web Developer 
+## I'm a curious Javascript Web Developer 
 
 - 👩‍💻 I'm currently working on something cool! 
 - 💻 I'm learning MERN Stack
@@ -74,4 +74,4 @@
 
 
 
-[sany_github]: https://github.com/prosany
+
