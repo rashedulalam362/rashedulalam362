@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Mahabub Sany][sany_github] 👋
+### Hi there, I'm [Rashedul Alam][sany_github] 👋
 
 ## I'm a Passionate Web Developer 
 
