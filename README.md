@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Rashedul Alam][sany_github] 👋
+### Hi there, I'm [Rashedul Alam] 👋
 
 ## I'm a curious Javascript Web Developer 
 
