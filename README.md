@@ -8,7 +8,7 @@
 - 🚧 2021 Goal: Become a Full-Stack Web Developer
 - 📚 2022 Goal: Contribute something cool to Open Source projects.
 - 🗯 Ask me about ReactJS, MERN Stack & WordPress. I am Happy to Help!
-- 📫 How to reach me: mahabubsany1@gmail.com
+- 📫 How to reach me: rashedulalam362@gmail.com
 
 ### Get in Touch:
 
