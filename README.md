@@ -11,8 +11,7 @@
 - 📫 How to reach me: rashedulalam362@gmail.com
 
 ### Get in Touch:
-
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ rashedbefresh)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahabub.sunny.904)
 
 ### Languages and Tools:
 <a href="https://github.com/">
@@ -70,7 +69,7 @@
 
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosany&layout=compact)](https://github.com/prosany)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosany&layout=compact)](https://github.com/)
 
 
 
