@@ -11,7 +11,7 @@
 - 📫 How to reach me: rashedulalam362@gmail.com
 
 ### Get in Touch:
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ rashedbefresh.904)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ rashedbefresh)
 
 ### Languages and Tools:
 <a href="https://github.com/">
